@@ -1,0 +1,6 @@
+scopes:
+  - scraper: OP.gg web scraper toolkit
+  - api: hostable API for OP.gg data
+  - cli: command-line interface for the API
+  - doc: documentation
+  - dist: formatting and tidiness
